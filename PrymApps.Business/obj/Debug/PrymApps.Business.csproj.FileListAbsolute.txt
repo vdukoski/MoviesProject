@@ -1,0 +1,12 @@
+C:\Users\User5570\Desktop\PrymAppProject\PrymAppsProject\PrymApps.Business\bin\Debug\PrymApps.Business.dll
+C:\Users\User5570\Desktop\PrymAppProject\PrymAppsProject\PrymApps.Business\bin\Debug\PrymApps.Business.pdb
+C:\Users\User5570\Desktop\PrymAppProject\PrymAppsProject\PrymApps.Business\obj\Debug\PrymApps.Business.csprojAssemblyReference.cache
+C:\Users\User5570\Desktop\PrymAppProject\PrymAppsProject\PrymApps.Business\obj\Debug\PrymApps.Business.csproj.CoreCompileInputs.cache
+C:\Users\User5570\Desktop\PrymAppProject\PrymAppsProject\PrymApps.Business\obj\Debug\PrymApps.Business.dll
+C:\Users\User5570\Desktop\PrymAppProject\PrymAppsProject\PrymApps.Business\obj\Debug\PrymApps.Business.pdb
+C:\Users\User5570\Desktop\PrymAppProject\PrymAppsProject\PrymApps.Business\bin\Debug\PrymApps.Business.dll.config
+C:\Users\User5570\Desktop\PrymAppProject\PrymAppsProject\PrymApps.Business\bin\Debug\EntityFramework.dll
+C:\Users\User5570\Desktop\PrymAppProject\PrymAppsProject\PrymApps.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User5570\Desktop\PrymAppProject\PrymAppsProject\PrymApps.Business\bin\Debug\EntityFramework.xml
+C:\Users\User5570\Desktop\PrymAppProject\PrymAppsProject\PrymApps.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User5570\Desktop\PrymAppProject\PrymAppsProject\PrymApps.Business\obj\Debug\PrymApps.Business.csproj.CopyComplete
